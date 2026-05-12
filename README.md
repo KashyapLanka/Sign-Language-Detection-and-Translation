@@ -34,7 +34,7 @@ This project implements a real-time American Sign Language (ASL) fingerspelling 
    ```
 
 3. **Dataset Download link:**
-   The training dataset can be downloaded from `https://github.com/KashyapLanka/Sign-Language-Detection-and-Translation`.
+   The training dataset can be downloaded from `https://www.kaggle.com/datasets/harshvardhan21/sign-language-detection-using-images`.
 
 ## Usage
 
