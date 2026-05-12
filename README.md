@@ -33,8 +33,8 @@ This project implements a real-time American Sign Language (ASL) fingerspelling 
    pip install opencv-python numpy mediapipe
    ```
 
-3. **Verify Model Assets:**
-   Ensure `hand_landmarker.task` and the trained `model.pt` are present in the `Version1.2/` directory to run inference out-of-the box.
+3. **Dataset Download link:**
+   The training dataset can be downloaded from `https://github.com/KashyapLanka/Sign-Language-Detection-and-Translation`.
 
 ## Usage
 
